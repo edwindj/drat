@@ -1,0 +1,9 @@
+Package: chunked
+Version: 0.1
+Depends: dplyr
+Imports: LaF, utils, lazyeval
+Suggests: testthat, RSQLite
+License: GPL-2
+MD5sum: a3998662d31a28174b80f5d3b9530f1e
+NeedsCompilation: no
+
