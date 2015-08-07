@@ -4,3 +4,10 @@ Imports: whisker, jsonlite, yaml
 Suggests: knitr, dplyr
 License: GPL-2
 
+Package: chunked
+Version: 0.1
+Depends: dplyr
+Imports: LaF, utils, lazyeval
+Suggests: testthat, RSQLite
+License: GPL-2
+

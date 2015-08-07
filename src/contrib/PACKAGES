@@ -12,6 +12,6 @@ Depends: dplyr
 Imports: LaF, utils, lazyeval
 Suggests: testthat, RSQLite
 License: GPL-2
-MD5sum: a3998662d31a28174b80f5d3b9530f1e
+MD5sum: 0e516be9974af724e3db8073d5bd7fc8
 NeedsCompilation: no
 
