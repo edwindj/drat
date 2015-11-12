@@ -1,0 +1,17 @@
+Package: cbsodataR
+Version: 0.2.0.9000
+Imports: whisker, jsonlite, yaml
+Suggests: knitr, dplyr
+License: GPL-2
+MD5sum: a8a04ab6746709ac249ca855b856b0f2
+NeedsCompilation: no
+
+Package: chunked
+Version: 0.1
+Depends: dplyr
+Imports: LaF, utils, lazyeval
+Suggests: testthat, RSQLite
+License: GPL-2
+MD5sum: 0e516be9974af724e3db8073d5bd7fc8
+NeedsCompilation: no
+
